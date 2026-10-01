@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "RIKCapture",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
-    whatsappAdmin: "62821000000000" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
+    googleApiKey: "AIzaSyCklCQb_-m4dsNw3YRlH1dd1g3KlzymceI",
+    whatsappAdmin: "6285158522710" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
